@@ -1,0 +1,2 @@
+# BTG
+BitcoinGold add on
